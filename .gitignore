@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.log
+
+# Node / React
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Project Specific
+secure-file-system/backend/keys/private.pem
+secure-file-system/backend/encrypted/
+secure-file-system/backend/decrypted/
+secure-file-system/backend/file_index.json

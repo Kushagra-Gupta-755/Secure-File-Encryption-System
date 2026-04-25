@@ -156,3 +156,9 @@ Frontend runs at `http://127.0.0.1:5173` and proxies `/api` to the backend.
 
 ---
 
+## Author
+
+[**Kushagra Gupta**](https://github.com/Kushagra-Gupta-755)
+
+[**Anmol Salaria**](https://github.com/anmolsalaria)
+

@@ -1,4 +1,4 @@
-# Secure File Encryption System (Modern Web App)
+# Secure File Encryption System using Hybrid Cryptography
 
 Modern full-stack **Secure File Encryption System** built with:
 
@@ -38,14 +38,6 @@ Security rules implemented:
 
 ---
 
-## Screenshots (placeholders)
-
-Add screenshots here:
-- `screenshots/home.png`
-- `screenshots/dashboard.png`
-
----
-
 ## Architecture
 
 ```text
@@ -53,7 +45,7 @@ secure-file-system/
 ├── backend/
 │   ├── app.py
 │   ├── requirements.txt
-│   ├── file_index.json                (auto-created)
+│   ├── file_index.json                
 │   ├── crypto/
 │   │   ├── aes.py
 │   │   ├── rsa.py
@@ -163,12 +155,4 @@ Frontend runs at `http://127.0.0.1:5173` and proxies `/api` to the backend.
 - Tailwind CSS
 
 ---
-
-## Future Scope (optional ideas)
-
-- Multi-file uploads
-- Progress bar for upload/encrypt/decrypt
-- Zip download for encrypted artifacts bundle
-- Activity log timeline
-- Optional Google Drive upload (placeholder integration)
 
